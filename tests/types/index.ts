@@ -75,7 +75,7 @@ const MY_STYLE: StripeElementStyle = {
   base: {
     iconColor: '#c4f0ff',
     color: '#fff',
-    fontWeight: '500',
+    fontWeight: 500,
     fontFamily: 'Roboto, Open Sans, Segoe UI, sans-serif',
     fontSize: '16px',
     fontSmoothing: 'antialiased',
